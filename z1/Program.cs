@@ -31,7 +31,6 @@ Console.WriteLine();
 mas(m,n);
 Console.WriteLine("\nИсходный массив: ");
 printm(randomArray);
-// Процедура сортировки элементов в строке двумерного массива по убыванию
 void uporyadok(int[,] array)
 {
 for (int i = 0; i < array.GetLength(0); i++)
